@@ -8,4 +8,9 @@ A Netflix dataset was studied and analyzed to prepare a dashboard for gaining in
 ### Dashboard Interaction:-
 <a href="https://github.com/Erika-Shrestha/Netflix-Engagement-Analysis/edit/main/Dashboard_Image.png">View Dashboard</a>
 
+### Process:-
+1.
+
+### Dashboard
+<img width="641" alt="Screenshot 2025-06-14 222002" src="https://github.com/user-attachments/assets/d35ab77d-84c2-48e4-8c47-460292f48d89" />
 
