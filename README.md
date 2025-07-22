@@ -17,7 +17,7 @@ A Netflix dataset was studied and analyzed to prepare a dashboard for gaining in
 
 
 ### Dashboard Interaction:-
-<a href="https://github.com/Erika-Shrestha/Netflix-Engagement-Analysis/edit/main/Dashboard_Image.png">View Dashboard</a>
+<a href="https://github.com/Erika-Shrestha/Netflix-Engagement-Analysis/blob/main/netflixengagementanalysis.pbix">View Dashboard</a>
 
 ### Process:-
 1. **Data Cleaning & Preparation**: Removed irrelevant columns, handled missing values, grouped queries.
