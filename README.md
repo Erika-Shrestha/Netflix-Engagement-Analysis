@@ -147,5 +147,3 @@ Users by Region & Genre
 - GitHub: https://github.com/Erika-Shrestha/
 
 ---
-
-*Built with Power BI Desktop | Data refreshed: 20 Jul 2025*
