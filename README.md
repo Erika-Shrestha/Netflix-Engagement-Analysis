@@ -1,6 +1,6 @@
-# 🎬 Netflix Engagement Dashboard
+# Netflix Engagement Dashboard
 
-> An interactive Power BI dashboard analyzing Netflix user engagement, churn behavior, subscription patterns, and regional content preferences — built entirely in Power BI with DAX measures.
+> An interactive Power BI dashboard analyzing Netflix user engagement, churn behavior, subscription patterns, and regional content preferences.
 
 ---
 
